@@ -229,7 +229,7 @@ GEM
       pry (~> 0.9.10)
     pry-rails (0.3.2)
       pry (>= 0.9.10)
-    puma (5.6.2)
+    puma (5.6.4)
       nio4r (~> 2.0)
     qunit-rails (0.0.7)
       railties
