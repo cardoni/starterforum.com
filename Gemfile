@@ -88,7 +88,7 @@ gem 'active_model_serializers'
 gem 'onebox'
 
 gem 'ember-rails'
-gem 'ember-source', '~> 1.2.0.1'
+gem 'ember-source', '~> 2.18.2'
 gem 'handlebars-source', '~> 1.1.2'
 gem 'barber'
 
